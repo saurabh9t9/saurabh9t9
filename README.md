@@ -1,5 +1,5 @@
 # About Me:
-I am Saurabh Sahani AI/ML Engineer and BSc student at St. Claret College Autonomous, Bengaluru, with expertise in end-to-end machine learning pipelines, deep learning architectures, and cloud deployment. <br>Adept at leveraging modern AI frameworks, relational and NoSQL databases, and cloud-native DevOps toolchains to build scalable, high-performance intelligent systems.<br>Core Frameworks: PyTorch, TensorFlow / Keras, Scikit-Learn, OpenCV, Hugging Face,  FastAPI, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, HTML, CSS , JavaScript, React Js, Node js<br>Databases: MySQL, MongoDB,Qdrant (Vector DBs for AI/ML)<br>Cloud & DevOps: Git / GitHub Actions
+I am Saurabh Sahani AI/ML Engineer and BSc student at St. Claret College Autonomous, Bengaluru, with expertise in end-to-end machine learning pipelines, deep learning architectures, and cloud deployment. <br>Adept at leveraging modern AI frameworks, relational and NoSQL databases, and cloud-native DevOps toolchains to build scalable, high-performance intelligent systems.<br>Core Frameworks: PyTorch, TensorFlow / Keras, Scikit-Learn, OpenCV, Hugging Face,  FastAPI, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, HTML, CSS , JavaScript, React Js, Node js<br>Databases: MySQL, Qdrant (Vector DBs for AI/ML)<br>Cloud & DevOps: Git / GitHub Actions
 
 
 ## 🌐 Socials:
